@@ -1,0 +1,3 @@
+1. We learned about how to create and host a website using GitHub.
+2. We Learned how to create API and how use it.
+3. We learned Using many tools like git, GitHub, Netlify, Versel and VS Code. It help us how to create websites, Host Websites, Create API.  
